@@ -1,0 +1,7 @@
+D:\MSBuildTestProject\MSBuildTestProject\bin\Debug\MSBuildTestProject.exe
+D:\MSBuildTestProject\MSBuildTestProject\bin\Debug\MSBuildTestProject.pdb
+D:\MSBuildTestProject\MSBuildTestProject\obj\x86\Debug\MSBuildTestProject.Form1.resources
+D:\MSBuildTestProject\MSBuildTestProject\obj\x86\Debug\MSBuildTestProject.Properties.Resources.resources
+D:\MSBuildTestProject\MSBuildTestProject\obj\x86\Debug\MSBuildTestProject.csproj.GenerateResource.Cache
+D:\MSBuildTestProject\MSBuildTestProject\obj\x86\Debug\MSBuildTestProject.exe
+D:\MSBuildTestProject\MSBuildTestProject\obj\x86\Debug\MSBuildTestProject.pdb
