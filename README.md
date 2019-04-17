@@ -5,6 +5,5 @@ Test^_^
 38
 4
 2
-as
-t
+ask
 saz
